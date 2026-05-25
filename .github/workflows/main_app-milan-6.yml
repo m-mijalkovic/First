@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'app-milan-6'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EEA68F2340C54E259341C8333EAAAF1E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_46190BF62A094980AC615B47C790FF3A }}
